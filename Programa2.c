@@ -1,3 +1,6 @@
+/*David Alejandro Martínez Vega L´Englisse
+practica 7 ejercicio 2*/
+
 #include<stdio.h>
 int main()
 {
